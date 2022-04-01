@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "email": "ngohoanganhtuan@gmail.com",
+      "password": "anhtuan123",
+      "fullName": "Anh Tuan",
+      "createdAt": "2022-03-10T08:34:47.653Z",
+      "updatedAt": "2022-03-10T08:34:47.653Z",
+      "id": 1
+    },
+    {
+      "email": "assaas@gmail.com",
+      "password": "asdasd123",
+      "fullName": "asd",
+      "createdAt": "2022-03-22T11:19:35.362Z",
+      "updatedAt": "2022-03-22T11:19:35.362Z",
+      "id": 2
+    },
+    {
+      "email": "asdasd@gmail.com",
+      "password": "asdasd123",
+      "fullName": "asd",
+      "createdAt": "2022-03-25T02:59:50.501Z",
+      "updatedAt": "2022-03-25T02:59:50.501Z",
+      "id": 3
+    }
+  ],
+  "lists": [
+    {
+      "nameList": "1",
+      "createdAt": "2022-03-31T12:25:11.244Z",
+      "updatedAt": "2022-03-31T12:25:11.244Z",
+      "tasks": [
+        {
+          "idList": "1",
+          "taskTitle": "1",
+          "createdAt": "2022-03-31T12:25:18.000Z",
+          "updatedAt": "2022-03-31T12:25:18.000Z"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "nameList": "2",
+      "createdAt": "2022-03-31T12:25:12.955Z",
+      "updatedAt": "2022-03-31T12:25:12.955Z",
+      "tasks": [
+        {
+          "idList": "2",
+          "taskTitle": "2",
+          "createdAt": "2022-03-31T12:25:18.000Z",
+          "updatedAt": "2022-03-31T12:25:18.000Z"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "nameList": "3",
+      "createdAt": "2022-03-31T12:25:14.783Z",
+      "updatedAt": "2022-03-31T12:25:14.783Z",
+      "tasks": [
+        {
+          "idList": "3",
+          "taskTitle": "3",
+          "createdAt": "2022-03-31T12:25:18.000Z",
+          "updatedAt": "2022-03-31T12:25:18.000Z"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "nameList": "4",
+      "createdAt": "2022-03-31T12:25:16.728Z",
+      "updatedAt": "2022-03-31T12:25:16.728Z",
+      "tasks": [
+        {
+          "idList": "4",
+          "taskTitle": "4",
+          "createdAt": "2022-03-31T12:25:18.000Z",
+          "updatedAt": "2022-03-31T12:25:18.000Z"
+        },
+        {
+          "idList": "4",
+          "taskTitle": "5",
+          "createdAt": "2022-03-31T12:25:18.000Z",
+          "updatedAt": "2022-03-31T12:25:18.000Z"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "tasks": [
+    {
+      "idList": "1",
+      "taskTitle": "asd",
+      "createdAt": "2022-04-01T01:40:04.616Z",
+      "updatedAt": "2022-04-01T01:40:04.616Z",
+      "id": 1
+    },
+    {
+      "idList": "2",
+      "taskTitle": "sad",
+      "createdAt": "2022-04-01T01:55:44.321Z",
+      "updatedAt": "2022-04-01T01:55:44.321Z",
+      "id": 2
+    },
+    {
+      "idList": "2",
+      "taskTitle": "asd",
+      "createdAt": "2022-04-01T03:34:53.515Z",
+      "updatedAt": "2022-04-01T03:34:53.515Z",
+      "listId": "2",
+      "id": 3
+    },
+    {
+      "idList": "2",
+      "taskTitle": "asdas",
+      "createdAt": "2022-04-01T03:34:56.330Z",
+      "updatedAt": "2022-04-01T03:34:56.330Z",
+      "listId": "2",
+      "id": 4
+    }
+  ]
+}
